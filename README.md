@@ -1,4 +1,6 @@
 # ChainOfDoctors
+### Build
+mvn package
 ### Run:
 java -jar target/mockito-1.0-SNAPSHOT.jar param
 #### List of params:
