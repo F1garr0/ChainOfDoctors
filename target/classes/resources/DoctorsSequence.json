@@ -1,0 +1,33 @@
+{
+  "Head":
+  {
+    "next":
+    [
+      {
+        "Name": "Therapist",
+        "next":
+        [
+          {
+            "Name": "Cardiologist",
+            "next": []
+          },
+          {
+            "Name": "Surger",
+            "next": []
+          }
+        ]
+      },
+      {
+        "Name": "Дежурный врач",
+        "next":
+        [
+          {
+            "Name": "неотложка",
+            "next": []
+          }
+        ]
+      }
+
+    ]
+  }
+}
